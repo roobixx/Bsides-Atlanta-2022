@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides", "Bsides.csproj", "{D899C10A-9F5D-4262-B16F-0F208549900C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides-2", "..\Bsides-2\Bsides-2.csproj", "{5CD9D0E9-BD5B-4CFB-9B81-3BC6A2FB780C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides-3", "..\Bsides-3\Bsides-3.csproj", "{DC7DEAAC-E121-4743-B439-C81D03CC578F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D899C10A-9F5D-4262-B16F-0F208549900C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D899C10A-9F5D-4262-B16F-0F208549900C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D899C10A-9F5D-4262-B16F-0F208549900C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D899C10A-9F5D-4262-B16F-0F208549900C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD9D0E9-BD5B-4CFB-9B81-3BC6A2FB780C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD9D0E9-BD5B-4CFB-9B81-3BC6A2FB780C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD9D0E9-BD5B-4CFB-9B81-3BC6A2FB780C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD9D0E9-BD5B-4CFB-9B81-3BC6A2FB780C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7DEAAC-E121-4743-B439-C81D03CC578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7DEAAC-E121-4743-B439-C81D03CC578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7DEAAC-E121-4743-B439-C81D03CC578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7DEAAC-E121-4743-B439-C81D03CC578F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA7461B-3825-4F14-B0AC-CE2151C6D612}
+	EndGlobalSection
+EndGlobal

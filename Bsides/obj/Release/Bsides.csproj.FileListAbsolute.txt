@@ -1,0 +1,3 @@
+C:\DEV\Bsides\bin\Release\Bsides-1.exe
+C:\DEV\Bsides\obj\Release\Bsides.csproj.CoreCompileInputs.cache
+C:\DEV\Bsides\obj\Release\Bsides-1.exe

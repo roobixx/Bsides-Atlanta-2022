@@ -1,0 +1,6 @@
+C:\DEV\Bsides-3\bin\Release\Bsides-3.exe
+C:\DEV\Bsides-3\bin\Release\Bsides-3.pdb
+C:\DEV\Bsides-3\obj\Release\Bsides-3.csproj.AssemblyReference.cache
+C:\DEV\Bsides-3\obj\Release\Bsides-3.csproj.CoreCompileInputs.cache
+C:\DEV\Bsides-3\obj\Release\Bsides-3.exe
+C:\DEV\Bsides-3\obj\Release\Bsides-3.pdb
